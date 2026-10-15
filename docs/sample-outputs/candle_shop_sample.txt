@@ -1,0 +1,10 @@
+Stage        : waiting_on_someone_else   (signals: waiting_on_someone_else, gone_quiet)
+Stuck on     : She needs her fiancée to approve the sample.
+Real concern : She's hesitant about the cost of the sample and wants to ensure the quality and design meet her fiancée’s expectations.
+Evidence     : "Let me check with her and get back to you"
+Send when    : in 2 days
+
+Next message :
+  Totally understand wanting to get her input! Just to confirm, the sample is $8 plus shipping, and we’ll refund it if you decide to order the full 80 favours at $6.50 each. Would you like me to send you a photo of the printed matte sticker for you to show her?
+
+(gemma3:4b on this machine, 17.7s, nothing left your computer)

@@ -1,0 +1,8 @@
+# SAMPLE - fictional conversation written for testing. Not a real customer.
+CUSTOMER: hey do you service e-bikes? rear brake squeaks and gears skip
+SELLER: Yes! Full tune-up is $85, usually ready in 2 days.
+CUSTOMER: 2 days is long, I use it to get to work every day
+SELLER: Understood. Drop it Friday evening and you get it back Monday morning?
+CUSTOMER: maybe. the shop near my office said $60 though
+SELLER: Ours includes brake pads check and a battery health report.
+CUSTOMER: ok I'll think about it

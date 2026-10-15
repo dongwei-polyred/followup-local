@@ -1,0 +1,10 @@
+# SAMPLE - fictional conversation written for testing. Not a real customer.
+CUSTOMER: Hi! Saw your lavender soy candles on Instagram. Do you do bulk for a wedding?
+SELLER: Hi! Yes, we do. How many are you thinking, and when is the wedding?
+CUSTOMER: About 80, as favours. Wedding is Nov 22.
+SELLER: Lovely. For 80 the small 4oz tins are $6.50 each, with a custom label included.
+CUSTOMER: Ok. Is the label printed or a sticker? We saw some that peeled off in photos lol
+SELLER: It's a printed matte sticker, it holds up well.
+CUSTOMER: Hmm ok. My fiancée wants to see it first. Can we get one sample?
+SELLER: Sure, the sample is $8 plus shipping, refunded if you order.
+CUSTOMER: Let me check with her and get back to you

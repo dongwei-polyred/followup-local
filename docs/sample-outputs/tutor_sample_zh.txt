@@ -1,0 +1,10 @@
+Stage        : price_hesitation   (signals: waiting_on_someone_else, price_hesitation)
+Stuck on     : 觉得有点贵啊。。
+Real concern : 她担心价格过高，并且对之前的课程效果不满意，需要得到丈夫的认可。
+Evidence     : "好，我问问孩子爸爸"
+Send when    : in 2 days
+
+Next message :
+  完全理解您的顾虑！试听课我们会先帮您的孩子做一次诊断，找出他数学学习的具体薄弱点，这样您就能更清楚地了解我们的课程是否适合他了。 试听后，如果您觉得不合适，完全可以不报，没有任何压力，您看您和您的爸爸商量结果怎么样了？
+
+(gemma3:4b on this machine, 20.1s, nothing left your computer)
